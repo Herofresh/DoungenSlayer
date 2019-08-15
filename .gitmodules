@@ -1,0 +1,4 @@
+[submodule "DoungenSlayerGM"]
+	path = DoungenSlayerGM
+	url = https://github.com/Herofresh/DoungenSlayerGM.git
+	branch = master
